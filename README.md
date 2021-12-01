@@ -1,2 +1,2 @@
 # Random_Forest_2_Fraud_Check_Data
-Use Random Forest to prepare a model on fraud data  treating those who have taxable_income &lt;= 30000 as "Risky" and others are "Good"
+Use Random Forest to prepare a model on fraud data treating those who have taxable_income &lt;= 30000 as "Risky" and others are "Good"
